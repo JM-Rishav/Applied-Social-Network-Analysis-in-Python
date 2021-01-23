@@ -18,7 +18,7 @@
   
   <br> Graphs </br>
   A pdf by cornell education on Graphs.
-  <a href = ""> </a>
+  <a href = "http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch02.pdf"> Here </a>
   
   <br>The Small World Phenomena</br>
   A pdf by cornell education which is quite insightfull
