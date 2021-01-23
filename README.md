@@ -18,5 +18,5 @@
   
   <br>The Small World Phenomena</br>
   A pdf by cornell education which is quite insightfull
-  <a href = ""> </a>
+  <a href = "http://www.cs.cornell.edu/home/kleinber/networks-book/networks-book-ch20.pdf"> Here </a>
 </div>
