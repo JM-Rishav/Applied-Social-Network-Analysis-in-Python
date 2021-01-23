@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <h3><br>Week 3</br><h3>
+  <h3><br>Week 3</br></h3>
 </div>
 
 <div>
